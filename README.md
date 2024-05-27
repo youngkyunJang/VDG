@@ -3,9 +3,9 @@
 The official repository of "**VDG**".
 
 <p align="center">
-<img src="figures/VDG_training.pdf" alt="teaser" width="60%">
+<img src="figures/VDG_training.jpg" alt="teaser" width="60%">
 </p>
 
 <p align="center">
-<img src="figures/VDG_generated_example.pdf" alt="teaser" width="60%">
+<img src="figures/VDG_generated_example.jpg" alt="teaser" width="60%">
 </p>
