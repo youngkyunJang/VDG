@@ -21,4 +21,10 @@ pip install -e .
 ```
 ## Datasets
 Please follow the instructions in [CIRR](https://www.zheyuanliu.me/CIRR/) [FashionIQ] (https://github.com/XiaoxiaoGuo/fashion-iq)
-We provide json files with CIRR, and VDG generated caption in ```datasets```
+
+We provide json files with CIRR (cirr_train), and VDG generated captions (cirr_train_combined). 
+```
+├── datasets
+    └── cirr_train.json
+    └── cirr_train_combined.json
+```
