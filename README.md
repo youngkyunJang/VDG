@@ -34,6 +34,7 @@ We provide json files with CIRR original training set (cirr_train), VDG generate
 
 ### Download LLM and Q-Former pretraining model
 We utilize LLaMA2-13B model from Meta AI [link](https://llama.meta.com/llama2/) and lit-llama from Lightning-AI to LoRA tuning [link](https://github.com/Lightning-AI/lit-llama).
+
 We utilize pre-trained Q-Former from InstructBLIP [paper](https://arxiv.org/abs/2305.06500) and use weights from Huggingface [link](https://huggingface.co/docs/transformers/model_doc/instructblip).
 
 ### VDG Training
@@ -45,6 +46,7 @@ python instruction_tuning/lora_cirr.py --llama_path $put_path_of_LLM --llama_pat
 
 ### CIR Model Training
 Run below command to train CIR model using VDG generated captions, we provide VDG generated ones (cirr_train_combined.json)
+
 If you want to add auxiliary gallery to perform semi-supervised learning, using VDG to generate visual deltas, and make json format same to cirr_train, and put it on ```--extra_dataset```
 
 ```
