@@ -57,6 +57,9 @@ We also provide test code which can run as below:
 python main_test/cirr/BLIP_cirr.py --ckpt $put_trained_CIR_model_path
 ```
 
+### Citation
+If you find VDG useful, please cite the following paper:
+
 ```latex
 @inproceedings{jang2024visual,
   title = {Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval},
