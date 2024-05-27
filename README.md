@@ -11,3 +11,11 @@ The official repository of "**VDG**".
 <p align="center">
 <img src="figures/VDG_generated_example.jpg" alt="teaser" width="60%">
 </p>
+
+## Requirements
+You can install the conda environment by running:
+```bash
+git clone https://github.com/youngkyunJang/VDG.git
+cd VDG
+pip install -e .
+```
