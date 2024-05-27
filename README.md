@@ -17,7 +17,7 @@ You can install the conda environment by running:
 ```bash
 git clone https://github.com/youngkyunJang/VDG.git
 cd VDG
-pip install -e .
+pip install -r requirements.txt
 ```
 ## Datasets
 Please follow the instructions in [CIRR](https://www.zheyuanliu.me/CIRR/) [FashionIQ] (https://github.com/XiaoxiaoGuo/fashion-iq)
