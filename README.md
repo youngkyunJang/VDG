@@ -1,4 +1,4 @@
-# (2024CVPR) Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval
+# Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval - CVPR2024
 ### [Project Page]() | [Paper](https://arxiv.org/abs/2404.15516)
 The official repository of "**VDG**".
 
