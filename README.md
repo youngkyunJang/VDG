@@ -20,7 +20,7 @@ cd VDG
 pip install -r requirements.txt
 ```
 ## Datasets
-Please follow the instructions in [CIRR](https://www.zheyuanliu.me/CIRR/) [FashionIQ] (https://github.com/XiaoxiaoGuo/fashion-iq)
+Please follow the instructions in [CIRR](https://www.zheyuanliu.me/CIRR/) [FashionIQ](https://github.com/XiaoxiaoGuo/fashion-iq)
 
 We provide json files with CIRR original training set (cirr_train), VDG generated captions included one (cirr_train_combined), and test set (cirr_test).
 ```
